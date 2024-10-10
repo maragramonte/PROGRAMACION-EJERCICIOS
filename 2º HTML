@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <p style="font-family:Liberation sheriff;"></p>
+    <h1 style="text-align:center;"><img src="https://mynguyen.azurewebsites.net/Lab1/Untitled.png" alt="BLACK GOOSE BISTRO" style="width:600px;height:300px;"><h1 style="text-align:center;">BLACK GOOSE BISTRO</h1>
+   <hr> 
+</head>
+<body>
+    <h4 style="color:brown;">The Restaurant</h4>
+    <p>The Black Goose Bistro offers casual lunch and dinner fare in a relaxed atmospher.</p>
+    <p>The menu changes regularly to higlight the freshest local ingredients.</p>
+    <h4 style="color:brown;">Cathering</h4>
+    <p> You have fun. <i> We'll handle the cooking.</i> Black Goose Cathering can handle events from snacks for a meetup to elegant corporate fundraisers </p>
+    <br>
+    <h4 style="color:brown;">Location and Hour</h4><p>Seekonk, Massachusettes;<p>Monday through Thursday 11am to 9pm; Friday and Saturday, 11am to midnight.</p>
+</body>
+</html>
