@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <h1> Mi primera pagina web </h1>
+    <h3> Titulo secundario</h3>
+    <p> El lenguaje de marcs utilizado en esta pagina web es HTML5. No se ustiliza ni CSS ni JavaScript.</p>
+    <p> A pesar de esto se podria haber hecho uso de  atributos como:</p>
+    <li>id</li>
+    <li>class</li>
+    <li>hidden</li>
+    <h3> Otro Tituo Secundario </h3>
+    <p>La siguiente tabla muestra valores aleatorios de tiradas de dados.(Pista: utiliza un atributo de table para poner el borde).</p>
+    <style>
+    table, th, td {
+      border: 1px solid black;
+    }
+    </style>
+    </head>
+    <body>
+    <h2>Table With Border</h2>
+    <table style="width:50%">
+    <tr>
+        <td>Cara</td>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+        <td>6</td>
+    </tr>
+    <tr>
+        <td>Veces</td>
+        <td>20</td>
+        <td>24</td>
+        <td>21</td>
+        <td>24</td>
+        <td>29</td>
+        <td>19</td>
+    </tr>
+    </table>
+    <h3> Imagen </h3>
+    <p> Busca una imagen de un dado y ponla aqui, por ejemplo, <a href = "https://i.etsystatic.com/20814910/r/il/af19a9/3724835546/il_570xN.3724835546_gu8y.jpg" alt="DADOS" style="width:600px;height:400px;">esta</a></p></p>
+    <img src="https://i.etsystatic.com/20814910/r/il/af19a9/3724835546/il_570xN.3724835546_gu8y.jpg" alt="DADOS" style="width:600px;height:400px;">
+    </body>
+</html>
